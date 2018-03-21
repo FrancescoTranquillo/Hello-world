@@ -6,3 +6,7 @@ Per eliminare un branch: Eliminalo ad avvenuto merge
 
 
 Ciao Rosti
+
+
+
+laboratorio added
